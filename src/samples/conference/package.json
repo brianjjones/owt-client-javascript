@@ -5,6 +5,7 @@
   "version": "4.3.0",
   "homepage": "http://webrtc.intel.com",
   "author": "Intel WebRTC team",
+  "main": "samplertcservice.js",
   "keywords": [
     "webrtc",
     "library",
